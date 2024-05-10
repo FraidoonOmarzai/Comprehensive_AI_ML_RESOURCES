@@ -15,7 +15,19 @@
 ## 01. Math For AI and ML:
 
 1. 01_linear_algebra
-    - Concept to learn 
+- Contents:
+    - Introduction
+    - System Of Equation
+    - Row Echelon Form And Reduced Row Echelon Form
+    - Scalar, Vectors, Matrix
+    - Matrix Operation: addition, subtraction, multiplication, transpose, inverse, determinant, adjoint
+    - Dot Product And Cross Product
+    - Eigenvalues And Eigenvector
+    - Linear Transformation
+    - Linear Dependent And Independent
+    - Linear Combination
+    - Basis
+    - Span Vector
 
 2. 02_calculus
     - Concepts to learn
@@ -27,45 +39,45 @@
     - Introduction
 
 - **Courses:**
-    - [Linear Algebra (Khan Academy)](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy)
-    - [Linear Algebra (MIT)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1&ab_channel=MITOpenCourseWare)
-    - [Linear Algebra (3Blue1Brown)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)
+    - [Linear Algebra (Khan Academy)](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy)(Optional)
+    - [Linear Algebra (MIT)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1&ab_channel=MITOpenCourseWare)(Oprional)
+    - [Linear Algebra (3Blue1Brown)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)(Good To Go Through)
     - [Calculas (3Blue1Brown)](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown)
-    - [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik)
-    - [Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+    - [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik)(Must)
+    - [Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)(Must)
 ------------------------------------------------------------------------
 ## 02.Python
 
-1. [01-python.ipynb]()
-    - **Contents**
-        - Introduction And Definition
-        - Variable And Data Types
-        - List [ ]
-        - Tuple ( )
-        - Dictionary { }
-        - Sets { }
-        - Operations
-        - Conditional Statement
-        - Looping
-        - Function
-        - Python OOP
-        - Error And Exception
-        - File Handling
-        - General Topics
+1. [01-python.ipynb](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01-python.ipynb)
+- **Contents**
+    - Introduction And Definition
+    - Variable And Data Types
+    - List [ ]
+    - Tuple ( )
+    - Dictionary { }
+    - Sets { }
+    - Operations
+    - Conditional Statement
+    - Looping
+    - Function
+    - Python OOP
+    - Error And Exception
+    - File Handling
+    - General Topics
 
 
-2. [02-data_structure_alg.ipynb]()
-    - **Contents:**
-        - Introduction
-        - Types of Design Techniques
-        - Array
-        - Sorting
-        - Searching
-        - Linked list
-        - Stacks
-        - Queues
-        - Graphs → BFS, DFS
-        - Binary Search Tree
+2. [02-data_structure_alg.ipynb](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/02_data_structure_alg.ipynb)
+- **Contents:**
+    - Introduction
+    - Types of Design Techniques
+    - Array
+    - Sorting
+    - Searching
+    - Linked list
+    - Stacks
+    - Queues
+    - Graphs → BFS, DFS
+    - Binary Search Tree
 
 
 - **Courses:**
