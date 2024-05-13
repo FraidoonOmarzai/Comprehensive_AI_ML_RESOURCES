@@ -14,8 +14,8 @@
 ------------------------------------------------------------------------
 ## 01. Math For AI and ML:
 
-1. 01_linear_algebra
-- Contents:
+1. [**01_linear_algebra**]()
+- **Contents:**
     - Introduction
     - System Of Equation
     - Row Echelon Form And Reduced Row Echelon Form
@@ -29,26 +29,31 @@
     - Basis
     - Span Vector
 
-2. 02_calculus
-    - Concepts to learn
+2. [**02_calculus**]()
+- **Contents:**
+    - Calculus Concepts In ML
+    - Limits
+    - Derivatives
+    - Chain Rules
+    - Partial Derivative
 
 3. 03_Probability
-    - Introduction
+- **Contents:**
     
 4. 04_Statistics
-    - Introduction
+- **Contents:**
 
 - **Courses:**
-    - [Linear Algebra (Khan Academy)](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy)(Optional)
-    - [Linear Algebra (MIT)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1&ab_channel=MITOpenCourseWare)(Oprional)
-    - [Linear Algebra (3Blue1Brown)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)(Good To Go Through)
+    - [Linear Algebra (Khan Academy)](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy)
+    - [Linear Algebra (MIT)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1&ab_channel=MITOpenCourseWare)
+    - [Linear Algebra (3Blue1Brown)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)
     - [Calculas (3Blue1Brown)](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown)
-    - [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik)(Must)
-    - [Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)(Must)
+    - [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik)
+    - [Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 ------------------------------------------------------------------------
 ## 02.Python
 
-1. [01-python.ipynb](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01-python.ipynb)
+1. [**01-python.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01-python.ipynb)
 - **Contents**
     - Introduction And Definition
     - Variable And Data Types
@@ -66,7 +71,7 @@
     - General Topics
 
 
-2. [02-data_structure_alg.ipynb](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/02_data_structure_alg.ipynb)
+2. [**02-data_structure_alg.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/02_data_structure_alg.ipynb)
 - **Contents:**
     - Introduction
     - Types of Design Techniques
