@@ -14,7 +14,7 @@
 ------------------------------------------------------------------------
 ## 01. Math For AI and ML:
 
-1. [**01_linear_algebra**]()
+1. [**01_linear_algebra**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/01_math/01_linear_algebra.ipynb)
 - **Contents:**
     - Introduction
     - System Of Equation
@@ -29,7 +29,7 @@
     - Basis
     - Span Vector
 
-2. [**02_calculus**]()
+2. [**02_calculus**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/01_math/02_calculus.ipynb)
 - **Contents:**
     - Calculus Concepts In ML
     - Limits
@@ -37,8 +37,15 @@
     - Chain Rules
     - Partial Derivative
 
-3. 03_Probability
+3. [**03_Probability**]()
 - **Contents:**
+    - Introduction to Probability
+    - Probability Rules
+    - Conditional Probability
+    - Bayes Theorem
+    - Combination
+    - Permutation
+    - Probability Distribution
     
 4. 04_Statistics
 - **Contents:**
