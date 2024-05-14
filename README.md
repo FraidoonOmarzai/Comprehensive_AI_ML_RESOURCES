@@ -47,8 +47,18 @@
     - Permutation
     - Probability Distribution
     
-4. 04_Statistics
+4. [**04_Statistics**]()
 - **Contents:**
+    - Introduction
+    - Types of Statistic
+    - Sampling Techniques
+    - Variable And Types Of Variables
+    - Central Tendency
+    - Measure Of Dispersion (Spread)
+    - Skewness
+    - Covariance And Types
+    - Plots: Box Plot, QQ Plot, Violin Plot
+    - Hypothesis Testing
 
 - **Courses:**
     - [Linear Algebra (Khan Academy)](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy)
@@ -95,7 +105,6 @@
 - **Courses:**
     - [The Complete Python Bootcamp From Zero to Hero in Python (Udemy)](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=LETSLEARNNOWPP)
     - [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=LETSLEARNNOWPP)
-
 
 
 ------------------------------------------------------------------------
