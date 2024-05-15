@@ -37,7 +37,7 @@
     - Chain Rules
     - Partial Derivative
 
-3. [**03_Probability**]()
+3. [**03_Probability**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/01_math/03_probability.ipynb)
 - **Contents:**
     - Introduction to Probability
     - Probability Rules
@@ -47,7 +47,7 @@
     - Permutation
     - Probability Distribution
     
-4. [**04_Statistics**]()
+4. [**04_Statistics**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/01_math/04_statistics.ipynb)
 - **Contents:**
     - Introduction
     - Types of Statistic
@@ -108,6 +108,13 @@
 
 
 ------------------------------------------------------------------------
+## 03.Machine Learning
+1. [**01_introduction.ipynb**]()
+
+
+
+
+
 ------------------------------------------------------------------------
 
 This Repository is created by: [Fraidoon Omarzai](https://github.com/FraidoonOmarzai)
