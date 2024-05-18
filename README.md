@@ -111,8 +111,8 @@
 ## 03.Machine Learning
 1. [**01_introduction.ipynb**]()
 2. [**02_linear_regression.ipynb**]()
-3. [**02_logistic_regression.ipynb**]()
-
+3. [**03_logistic_regression.ipynb**]()
+4. [**04.decision_tree.ipynb**]()
 
 
 ------------------------------------------------------------------------
