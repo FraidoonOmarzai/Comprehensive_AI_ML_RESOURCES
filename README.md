@@ -113,7 +113,7 @@
 2. [**02_linear_regression.ipynb**]()
 3. [**03_logistic_regression.ipynb**]()
 4. [**04.decision_tree.ipynb**]()
-
+5. [**05_svm.ipynb**]()
 
 ------------------------------------------------------------------------
 
