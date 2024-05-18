@@ -114,7 +114,6 @@
 3. [**03_logistic_regression.ipynb**]()
 4. [**04.decision_tree.ipynb**]()
 5. [**05_svm.ipynb**]()
-
 ------------------------------------------------------------------------
 
 This Repository is created by: [Fraidoon Omarzai](https://github.com/FraidoonOmarzai)
