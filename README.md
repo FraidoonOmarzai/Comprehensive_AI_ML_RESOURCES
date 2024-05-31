@@ -68,7 +68,7 @@
     - [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik)
     - [Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 ------------------------------------------------------------------------
-## 02.Python
+## 02. Python
 
 1. [**01-python.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01-python.ipynb)
 - **Contents**
@@ -108,12 +108,18 @@
 
 
 ------------------------------------------------------------------------
-## 03.Machine Learning
+## 03. Machine Learning
+1. [**01_introduction.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/01_introduction.ipynb)
+2. [**02_linear_regression.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/02_linear_regression.ipynb)
+3. [**03_logistic_regression.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/03_logistic_regression.ipynb)
+4. [**04.decision_tree.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/04_decision_tree.ipynb)
+5. [**05_svm.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/05_svm.ipynb)
+------------------------------------------------------------------------
+## 04. Deep Learning
 1. [**01_introduction.ipynb**]()
-2. [**02_linear_regression.ipynb**]()
-3. [**03_logistic_regression.ipynb**]()
-4. [**04.decision_tree.ipynb**]()
-5. [**05_svm.ipynb**]()
+2. [**02_ANN.ipynb**]()
+3. [**03_CNN.ipynb**]()
+
 ------------------------------------------------------------------------
 
 This Repository is created by: [Fraidoon Omarzai](https://github.com/FraidoonOmarzai)
