@@ -114,6 +114,8 @@
 3. [**03_logistic_regression.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/03_logistic_regression.ipynb)
 4. [**04.decision_tree.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/04_decision_tree.ipynb)
 5. [**05_svm.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/05_svm.ipynb)
+6. [**06_naive_bayes.ipynb**]()
+7. [**07_knn.ipynb**]()
 ------------------------------------------------------------------------
 ## 04. Deep Learning
 1. [**01_introduction.ipynb**]()
