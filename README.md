@@ -117,6 +117,10 @@
 6. [**06_naive_bayes.ipynb**]()
 7. [**07_knn.ipynb**]()
 8. [**08_k-means_clustering.ipynb**]()
+9. [**09_hierarchical_clustering.ipynb**]()
+
+
+
 ------------------------------------------------------------------------
 ## 04. Deep Learning
 1. [**01_introduction.ipynb**]()
