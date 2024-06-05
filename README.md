@@ -118,6 +118,7 @@
 7. [**07_knn.ipynb**]()
 8. [**08_k-means_clustering.ipynb**]()
 9. [**09_hierarchical_clustering.ipynb**]()
+10. [**10_DBSCAN.ipynb**]()
 
 
 
@@ -127,6 +128,7 @@
 2. [**02_ANN.ipynb**]()
 3. [**03_CNN.ipynb**]()
 4. [**03_RNN.ipynb**]()
+5. [**04_LSTM_GRU.ipynb**]()
 
 
 ------------------------------------------------------------------------
