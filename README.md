@@ -119,6 +119,7 @@
 8. [**08_k-means_clustering.ipynb**]()
 9. [**09_hierarchical_clustering.ipynb**]()
 10. [**10_DBSCAN.ipynb**]()
+11. [**11_PCA.ipynb**]()
 
 
 
