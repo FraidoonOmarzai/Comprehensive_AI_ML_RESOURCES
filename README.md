@@ -120,6 +120,8 @@
 9. [**09_hierarchical_clustering.ipynb**]()
 10. [**10_DBSCAN.ipynb**]()
 11. [**11_PCA.ipynb**]()
+12. [**12_LDAP.ipynb**]()
+13. [**13_ensemble_learning.ipynb**]()
 
 
 
