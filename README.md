@@ -129,10 +129,11 @@
 ## 04. Deep Learning
 1. [**01_introduction.ipynb**]()
 2. [**02_ANN.ipynb**]()
-3. [**03_CNN.ipynb**]()
-4. [**03_RNN.ipynb**]()
-5. [**04_LSTM_GRU.ipynb**]()
-
+8. [**08_CNN.ipynb**]()
+10. [**10_RNN.ipynb**]()
+11. [**11_LSTM_GRU.ipynb**]()
+12. [**12_BRNN.ipynb**]()
+13. [**13_TF_PyTorch.ipynb**]()
 
 ------------------------------------------------------------------------
 
