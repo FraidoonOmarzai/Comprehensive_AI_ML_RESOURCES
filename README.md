@@ -123,6 +123,7 @@
 12. [**12_LDAP.ipynb**]()
 13. [**13_ensemble_learning.ipynb**]()
 14. [**14_random_forest.ipynb**]()
+15. [**15_gradient_boost.ipynb**]()
 
 
 
