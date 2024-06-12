@@ -120,7 +120,7 @@
 9. [**09_hierarchical_clustering.ipynb**]()
 10. [**10_DBSCAN.ipynb**]()
 11. [**11_PCA.ipynb**]()
-12. [**12_LDAP.ipynb**]()
+12. [**12_LDA.ipynb**]()
 13. [**13_ensemble_learning.ipynb**]()
 14. [**14_random_forest.ipynb**]()
 15. [**15_gradient_boost.ipynb**]()
