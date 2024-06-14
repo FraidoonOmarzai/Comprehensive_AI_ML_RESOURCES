@@ -138,6 +138,12 @@
 13. [**13_TF_PyTorch.ipynb**]()
 
 ------------------------------------------------------------------------
+## 05. Natural Language Processing (NLP)
+1. [**01_introduction_to_NLP.ipynb**]()
+
+
+------------------------------------------------------------------------
+
 
 This Repository is created by: [Fraidoon Omarzai](https://github.com/FraidoonOmarzai)
 - [LinkedIn](inkedin.com/in/fraidoon-omarzai-8592131b4/)
