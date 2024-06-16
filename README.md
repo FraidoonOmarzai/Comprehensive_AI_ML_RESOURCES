@@ -124,6 +124,8 @@
 13. [**13_ensemble_learning.ipynb**]()
 14. [**14_random_forest.ipynb**]()
 15. [**15_gradient_boost.ipynb**]()
+16. [**16_xgboost_regression.ipynb**]()
+17. [**17_xgboost_classification.ipynb**]()
 
 
 
