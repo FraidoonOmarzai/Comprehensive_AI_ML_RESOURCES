@@ -127,6 +127,7 @@
 16. [**16_xgboost_regression.ipynb**]()
 17. [**17_xgboost_classification.ipynb**]()
 18. [**18_adaboost.ipynb**]()
+19. [**19_regression_metrics.ipynb**]()
 
 
 
