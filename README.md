@@ -130,6 +130,7 @@
 19. [**19_regression_metrics.ipynb**]()
 20. [**20_classification_metrics.ipynb**]()
 21. [**21_lasso_ridge_regression.ipynb**]()
+22. [**22_hyperparameter_tunning_cross_validation.ipynb**]()
 
 
 
@@ -146,6 +147,7 @@
 ------------------------------------------------------------------------
 ## 05. Natural Language Processing (NLP)
 1. [**01_introduction_to_NLP.ipynb**]()
+2. [**02_word_embeddings.ipynb**]()
 
 
 ------------------------------------------------------------------------
