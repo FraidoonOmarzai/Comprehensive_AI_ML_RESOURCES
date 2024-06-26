@@ -131,9 +131,7 @@
 20. [**20_classification_metrics.ipynb**]()
 21. [**21_lasso_ridge_regression.ipynb**]()
 22. [**22_hyperparameter_tunning_cross_validation.ipynb**]()
-
-
-
+23. [**ml_ds_project_lifecycle.ipynb**]()
 ------------------------------------------------------------------------
 ## 04. Deep Learning
 1. [**01_introduction.ipynb**]()
