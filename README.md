@@ -136,6 +136,7 @@
 ## 04. Deep Learning
 1. [**01_introduction.ipynb**]()
 2. [**02_ANN.ipynb**]()
+3. [**03_activation_function.ipynb**]()
 8. [**08_CNN.ipynb**]()
 10. [**10_RNN.ipynb**]()
 11. [**11_LSTM_GRU.ipynb**]()
