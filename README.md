@@ -148,6 +148,7 @@
 ## 05. Natural Language Processing (NLP)
 1. [**01_introduction_to_NLP.ipynb**]()
 2. [**02_word_embeddings.ipynb**]()
+3. [**03_word2vec.ipynb**]()
 
 
 ------------------------------------------------------------------------
