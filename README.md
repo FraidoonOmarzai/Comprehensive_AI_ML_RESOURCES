@@ -140,6 +140,7 @@
 4. [**04_loss_fun.ipynb**]()
 5. [**05_optimization.ipynb**]()
 6. [**06_vanishing_explodings.ipynb**]()
+7. [**07_overfit_underfit.ipynb**]()
 8. [**08_CNN.ipynb**]()
 10. [**10_RNN.ipynb**]()
 11. [**11_LSTM_GRU.ipynb**]()
