@@ -158,6 +158,13 @@
 
 
 ------------------------------------------------------------------------
+## 06. Computer Vision (CV)
+
+1. [**01_introduction_to_CV.ipynb**]()
+
+
+------------------------------------------------------------------------
+
 
 
 This Repository is created by: [Fraidoon Omarzai](https://github.com/FraidoonOmarzai)
