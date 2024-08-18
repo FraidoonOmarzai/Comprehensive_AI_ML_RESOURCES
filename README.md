@@ -161,6 +161,7 @@
 ## 06. Computer Vision (CV)
 
 1. [**01_introduction_to_CV.ipynb**]()
+2. [**02_object_detection.ipynb**]()
 
 
 ------------------------------------------------------------------------
