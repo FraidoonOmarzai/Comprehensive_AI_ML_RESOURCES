@@ -163,6 +163,8 @@
 1. [**01_introduction_to_CV.ipynb**]()
 2. [**02_object_detection.ipynb**]()
 3. [**03_opencv.ipynb**]()
+4. [**04_GAN.ipynb**]()
+5. [**05_image_segmentation.ipynb**]()
 
 
 ------------------------------------------------------------------------
