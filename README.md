@@ -131,7 +131,7 @@
 20. [**20_classification_metrics.ipynb**]()
 21. [**21_lasso_ridge_regression.ipynb**]()
 22. [**22_hyperparameter_tunning_cross_validation.ipynb**]()
-23. [**ml_ds_project_lifecycle.ipynb**]()
+23. [**23_ml_ds_project_lifecycle.ipynb**]()
 ------------------------------------------------------------------------
 ## 04. Deep Learning
 1. [**01_introduction.ipynb**]()
@@ -165,6 +165,13 @@
 3. [**03_opencv.ipynb**]()
 4. [**04_GAN.ipynb**]()
 5. [**05_image_segmentation.ipynb**]()
+
+
+------------------------------------------------------------------------
+
+## 07. Generative AI & LLMs
+
+1. [**01_introduction_GenerativeAI_llm.ipynb**]()
 
 
 ------------------------------------------------------------------------
