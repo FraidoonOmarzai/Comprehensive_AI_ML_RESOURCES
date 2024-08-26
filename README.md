@@ -70,7 +70,7 @@
 ------------------------------------------------------------------------
 ## 02. Python
 
-1. [**01-python.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01-python.ipynb)
+1. [**01_python.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01-python.ipynb)
 - **Contents**
     - Introduction And Definition
     - Variable And Data Types
@@ -88,7 +88,7 @@
     - General Topics
 
 
-2. [**02-data_structure_alg.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/02_data_structure_alg.ipynb)
+2. [**02_data_structure_alg.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/02_data_structure_alg.ipynb)
 - **Contents:**
     - Introduction
     - Types of Design Techniques
@@ -100,6 +100,8 @@
     - Queues
     - Graphs → BFS, DFS
     - Binary Search Tree
+
+3. [**03_numpy.ipynb**]()
 
 
 - **Courses:**
