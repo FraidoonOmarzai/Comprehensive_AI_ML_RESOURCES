@@ -102,6 +102,7 @@
     - Binary Search Tree
 
 3. [**03_numpy.ipynb**]()
+4. [**04_pandas.ipynb**]()
 
 
 - **Courses:**
