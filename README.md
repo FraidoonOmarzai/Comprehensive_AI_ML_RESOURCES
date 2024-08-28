@@ -103,6 +103,7 @@
 
 3. [**03_numpy.ipynb**]()
 4. [**04_pandas.ipynb**]()
+5. [**05_matplotlib.ipynb**]()
 
 
 - **Courses:**
