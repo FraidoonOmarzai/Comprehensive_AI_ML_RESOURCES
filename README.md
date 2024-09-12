@@ -177,6 +177,7 @@
 ## 07. Generative AI & LLMs
 
 1. [**01_introduction_GenerativeAI_llm.ipynb**]()
+2. [**02_RAG.ipynb**]()
 
 
 ------------------------------------------------------------------------
