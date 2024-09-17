@@ -1,16 +1,7 @@
 <h1 align=center> Comprehensive_AI_ML_Resources </h1>
 
-**It's a comprehensive repository covering the belwo topics in DEPTH:**
+**A comprehensive AI/ML repository covering `Math`, `Python`, `ML`, `DL`, `NLP`, `CV`, `LLM` and `MLOps` in DEPTH**
 
-01. [Mathematics:]() Linear Algebra, Calculation, Probability and Statistic... **Completed**
-02. [Python:]() python, Data Structure and Algorithm **Completed**
-03. [Machine Learning:]() ML Introduction, Superviesed and Unsupervised Algorithms in Depth, Evaluation Metrics, ML Project Life-Cycle, and much more **Completed**
-04. [Deep Learning:]() DL Introduction, Neural Networks, Artificial Neural Networks, CNN, RNN, Tensorflow, PyTorch... **Not Completed**
-05. [Computer Vision:]() CV, Image Processing, Object Detection, GAN, and OpenCV... **Not Completed**
-06. [Natural Language Processing:]() NLP, ... **Not Completed**
-07. [Large Language Models:]() LLM, Generative Language Models, ... **Not Completed**
-08. [MLOps:]() Github, ... **Not Completed**
-------------------------------------------------------------------------
 ------------------------------------------------------------------------
 ## 01. Math For AI and ML:
 
@@ -181,6 +172,30 @@
 
 
 ------------------------------------------------------------------------
+## 08. MLOps Resources
+
+1. Github
+    - [**Github**](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
+2. Docker
+    - [**Docker1**](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
+    - [****Docker2****](https://www.youtube.com/watch?v=MJ1vWb1rGwM&ab_channel=KrishNaik)
+3. MLFlow
+    - [**mlflow**](https://www.youtube.com/watch?v=r0do1KVEGqM&list=PLwFaZuSL_mfou923msxLWAqxkj6Zcnt29&ab_channel=AshutoshTripathi)
+4. CI/CD
+    - [**GithubAction1**](https://www.youtube.com/watch?v=R8_veQiYBjI&t=13s&ab_channel=TechWorldwithNana)
+    - [**GithubAction2**](https://www.youtube.com/watch?v=-hVG9z0fCac&list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY&ab_channel=glich.stream)
+5. Kubernete
+    - [**Kubernete**](https://www.youtube.com/watch?v=X48VuDVv0do&t=2s&ab_channel=TechWorldwithNana)
+
+6. MLOps Specialization Course 
+    - [**MLOps Specialization**](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+7. AWS
+    - [**AWS1**](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+    - [**AWS2**](https://www.udemy.com/course/aws-machine-learning/?couponCode=SEP_24_GET_STARTED)
+
+
+------------------------------------------------------------------------
+
 
 
 
