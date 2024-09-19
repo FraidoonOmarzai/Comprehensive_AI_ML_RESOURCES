@@ -1,9 +1,9 @@
 <h1 align="center">🌟 Comprehensive AI/ML Resources📚 🌟</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=social" alt="Stars Badge"/>
-  <img src="https://img.shields.io/github/forks/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=social" alt="Forks Badge"/>
-  <img src="https://img.shields.io/github/license/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES" alt="License Badge"/>
+  <img src="https://img.shields.io/github/stars/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/license/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="License Badge"/>
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 </p>
 
 ---
+
 
 ## 📑 Table of Contents
 | Section | Description |
@@ -53,8 +54,6 @@
 | 🧑‍🏫 3Blue1Brown | [Calculas](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown) |
 | 🧑‍🏫 Coursera | [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
 | 🧑‍🏫 YouTube | [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik) |
-| 🧑‍🏫  |  |
-| 🧑‍🏫  |  |
 ---
 
 ## 02. Python 🐍
@@ -77,74 +76,84 @@
 
 ## 03. Machine Learning 🤖
 
-1. [**Introduction To ML**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/01_introduction.ipynb)
-2. [**Linear Regression**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/02_linear_regression.ipynb)
-3. [**Logistic Regression**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/03_logistic_regression.ipynb)
-4. [**Decision Tree**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/04_decision_tree.ipynb)
-5. [**SVM**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/05_svm.ipynb)
-6. [**Naive Bayes**]()
-7. [**KNN**]()
-8. [**k-means Clustering**]()
-9. [**Hierarchical Clustering**]()
-10. [**DBSCAN**]()
-11. [**PCA**]()
-12. [**LDA**]()
-13. [**Ensemble Learning**]()
-14. [**Random Forest**]()
-15. [**Gradient Boost**]()
-16. [**XGboost Regression**]()
-17. [**XGboost Classification**]()
-18. [**Adaboost**]()
-19. [**Regression Metrics**]()
-20. [**Classification Metrics**]()
-21. [**Lasso And Ridge Regression**]()
-22. [**Hyperparameter Tunning And Cross Validation**]()
-23. [**ML Project Life-cycle**]()
+| 📂 **Topic**                      | 📑 **Link to Notebook** |
+|------------------------------------|-------------------------|
+| **1. Introduction To ML**          | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/01_introduction.ipynb) |
+| **2. Linear Regression**           | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/02_linear_regression.ipynb) |
+| **3. Logistic Regression**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/03_logistic_regression.ipynb) |
+| **4. Decision Tree**               | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/04_decision_tree.ipynb) |
+| **5. SVM**                         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/05_svm.ipynb) |
+| **6. Naive Bayes**                 | [🌐 Notebook]() |
+| **7. KNN**                         | [🌐 Notebook]() |
+| **8. k-means Clustering**          | [🌐 Notebook]() |
+| **9. Hierarchical Clustering**     | [🌐 Notebook]() |
+| **10. DBSCAN**                     | [🌐 Notebook]() |
+| **11. PCA**                        | [🌐 Notebook]() |
+| **12. LDA**                        | [🌐 Notebook]() |
+| **13. Ensemble Learning**          | [🌐 Notebook]() |
+| **14. Random Forest**              | [🌐 Notebook]() |
+| **15. Gradient Boost**             | [🌐 Notebook]() |
+| **16. XGBoost Regression**         | [🌐 Notebook]() |
+| **17. XGBoost Classification**     | [🌐 Notebook]() |
+| **18. Adaboost**                   | [🌐 Notebook]() |
+| **19. Regression Metrics**         | [🌐 Notebook]() |
+| **20. Classification Metrics**     | [🌐 Notebook]() |
+| **21. Lasso And Ridge Regression** | [🌐 Notebook]() |
+| **22. Hyperparameter Tuning & Cross Validation** | [🌐 Notebook]() |
+| **23. ML Project Life-cycle**      | [🌐 Notebook]() |
 
 ---
 
 ## 04. Deep Learning 🧠
 
-1. [**Introduction To DL**]()
-2. [**ANN**]()
-3. [**Activation Functions**]()
-4. [**Loss Functions**]()
-5. [**Optimization**]()
-6. [**Vanishing Explodings**]()
-7. [**Overfit And Uderfit**]()
-8. [**CNN**]()
-10. [**RNN**]()
-11. [**LSTM And GRU**]()
-12. [**BRNN**]()
-13. [**Tensorflow And PyTorch**]()
+| 📂 **Topic**                      | 📑 **Link to Notebook** |
+|------------------------------------|-------------------------|
+| **1. Introduction To DL**         | [🌐 Notebook]() |
+| **2. ANN**     | [🌐 Notebook]() |
+| **3. Activation Functions**                     | [🌐 Notebook]() |
+| **4. Loss Functions**                        | [🌐 Notebook]() |
+| **5. Optimization**                        | [🌐 Notebook]() |
+| **6. Vanishing Explodings**          | [🌐 Notebook]() |
+| **7. Overfit And Uderfit**              | [🌐 Notebook]() |
+| **8. CNN**             | [🌐 Notebook]() |
+| **9. CNN Architectures**         | [🌐 Notebook]() |
+| **10. RNN**     | [🌐 Notebook]() |
+| **11. LSTM And GRU**                   | [🌐 Notebook]() |
+| **12. BRNN**         | [🌐 Notebook]() |
+| **13. Tensorflow And PyTorch**     | [🌐 Notebook]() |
 
 ---
 
 ## 05. Natural Language Processing (NLP) 💬
-
-1. [**Introduction To NLP**]()
-2. [**Word Embeddings**]()
-3. [**Word2vec**]()
-4. [**Seq2Seq**]()
-5. [**Transformers**]()
-6. [**DL Models In NLP**]()
+| 📂 **Topic**                      | 📑 **Link to Notebook** |
+|------------------------------------|-------------------------|
+| **1. Introduction To NLP**         | [🌐 Notebook]() |
+| **2. Word Embeddings**     | [🌐 Notebook]() |
+| **3. Word2vec**                     | [🌐 Notebook]() |
+| **4. Seq2Seq**                        | [🌐 Notebook]() |
+| **5. Transformers**                        | [🌐 Notebook]() |
+| **6. DL Models In NLP**          | [🌐 Notebook]() |
 
 ---
 
 ## 06. Computer Vision (CV) 👁️
 
-1. [**Introduction To CV**]()
-2. [**Object Detection**]()
-3. [**OpenCV**]()
-4. [**GAN**]()
-5. [**Image Segmentation**]()
+| 📂 **Topic**                      | 📑 **Link to Notebook** |
+|------------------------------------|-------------------------|
+| **1. Introduction To CV**         | [🌐 Notebook]() |
+| **2. Object Detection**     | [🌐 Notebook]() |
+| **3. OpenCV**                        | [🌐 Notebook]() |
+| **4. GAN**                        | [🌐 Notebook]() |
+| **5. Image Segmentation**                        | [🌐 Notebook]() |
 
 ---
 
 ## 07. Generative AI & LLMs 🤖📝
 
-1. [**Introduction to Generative AI & LLMs**](#)
-2. [**Retrieval-Augmented Generation (RAG)**](#)
+| 📂 **Topic**                      | 📑 **Link to Notebook** |
+|------------------------------------|-------------------------|
+| **1. Introduction to Generative AI & LLMs**         | [🌐 Notebook]() |
+| **2. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook]() |
 
 ---
 
