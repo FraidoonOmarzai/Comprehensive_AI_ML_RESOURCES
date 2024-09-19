@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/github/stars/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Stars Badge"/>
   <img src="https://img.shields.io/github/forks/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Forks Badge"/>
   <img src="https://img.shields.io/github/license/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version"/>
 </p>
 
 <p align="center">
