@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="logo.png" alt="AI/ML Resources Logo" width="400px"/>
+  <img src="logo.png" alt="AI/ML Resources Logo" width="700px"/>
 </p>
 
 <p align="center">
@@ -19,14 +19,14 @@
 ## 📑 Table of Contents
 | Section | Description |
 |---------|-------------|
-| [01. Math for AI and ML](#01-math-for-ai-and-ml) | Math foundations for AI/ML like linear algebra, calculus, statistic and probability. |
-| [02. Python](#02-python) | Python fundamentals, data structures, libraries, and more. |
-| [03. Machine Learning](#03-machine-learning) | Core ML algorithms, models, techniques, and much more. |
-| [04. Deep Learning](#04-deep-learning) | Dive into ANN, CNN, RNN, LSTM, and more. |
-| [05. NLP](#05-natural-language-processing-nlp) | Natural Language Processing using ML and DL models, preprocessing techniques, used tools in NLP, and more. |
-| [06. Computer Vision](#06-computer-vision-cv) | Intorduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
-| [07. Generative AI & LLMs](#07-generative-ai--llms) | Explore the world of Large Language Models and Generative AI. |
-| [08. MLOps](#08-mlops-resources) | Tools, courses, and resources for MLOps. |
+| [01. Math for AI and ML](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/01_math) | Math foundations for AI/ML like linear algebra, calculus, statistic and probability. |
+| [02. Python](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/02_Python) | Python fundamentals, data structures, libraries, and more. |
+| [03. Machine Learning](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/03_ML) | Core ML algorithms, models, techniques, and much more. |
+| [04. Deep Learning](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/04_DL) | Dive into ANN, CNN, RNN, LSTM, and more. |
+| [05. NLP](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/05_NLP) | Natural Language Processing using ML and DL models, preprocessing techniques, used tools in NLP, and more. |
+| [06. Computer Vision](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/06_CV) | Intorduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
+| [07. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Explore the world of Large Language Models and Generative AI. |
+| [08. MLOps](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main) | Tools, courses, and resources for MLOps. |
 
 ---
 
@@ -44,21 +44,17 @@
 4. [**Statistics**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/01_math/04_statistics.ipynb)
    - Central Tendency, Hypothesis Testing, Plots (Box, QQ, Violin), and more.
 
-### Courses:
-- [Linear Algebra (Khan Academy)](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy)
-- [Linear Algebra (MIT)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1&ab_channel=MITOpenCourseWare)
-- [Linear Algebra (3Blue1Brown)](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown)
-- [Calculas (3Blue1Brown)](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown)
-- [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik)
-- [Mathematics for Machine Learning and Data Science Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
-
 ### Math Courses:
 | Platform | Links |
 |----------|-------|
-| 🧑‍🏫 Khan Academy | [Linear Algebra](https://www.youtube.com/watch?v=xyAuNHPsq-g) |
-| 🧑‍🏫 MIT OpenCourseWare | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c) |
-| 🧑‍🏫 Coursera | [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
-
+| 🧑‍🏫 Khan Academy | [Linear Algebra](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy) |
+| 🧑‍🏫 MIT | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1&ab_channel=MITOpenCourseWare) |
+| 🧑‍🏫 3Blue1Brown | [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown) |
+| 🧑‍🏫 3Blue1Brown | [Calculas](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown) |
+| 🧑‍🏫 Coursera | [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
+| 🧑‍🏫 YouTube | [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik) |
+| 🧑‍🏫  |  |
+| 🧑‍🏫  |  |
 ---
 
 ## 02. Python 🐍
@@ -71,106 +67,103 @@
 
 3. [**NumPy**](#) | [**Pandas**](#) | [**Matplotlib**](#) | [**Seaborn**](#)
 
-### Courses:
-- [Python Bootcamp - Udemy](https://www.udemy.com/course/complete-python-bootcamp)
-- [Python for Data Science - Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp)
-
 ### Python Courses:
 | Platform | Links |
 |----------|-------|
-| 🐍 Udemy | [Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp) |
-| 🐍 Udemy | [Python for Data Science](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp) |
+| 🐍 Udemy | [Python Bootcamp (Jose)](https://www.udemy.com/course/complete-python-bootcamp) |
+| 🐍 Udemy | [Python for Data Science (Jose)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp) |
 
 ---
 
 ## 03. Machine Learning 🤖
 
-1. [**01_introduction.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/01_introduction.ipynb)
-2. [**02_linear_regression.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/02_linear_regression.ipynb)
-3. [**03_logistic_regression.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/03_logistic_regression.ipynb)
-4. [**04.decision_tree.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/04_decision_tree.ipynb)
-5. [**05_svm.ipynb**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/05_svm.ipynb)
-6. [**06_naive_bayes.ipynb**]()
-7. [**07_knn.ipynb**]()
-8. [**08_k-means_clustering.ipynb**]()
-9. [**09_hierarchical_clustering.ipynb**]()
-10. [**10_DBSCAN.ipynb**]()
-11. [**11_PCA.ipynb**]()
-12. [**12_LDA.ipynb**]()
-13. [**13_ensemble_learning.ipynb**]()
-14. [**14_random_forest.ipynb**]()
-15. [**15_gradient_boost.ipynb**]()
-16. [**16_xgboost_regression.ipynb**]()
-17. [**17_xgboost_classification.ipynb**]()
-18. [**18_adaboost.ipynb**]()
-19. [**19_regression_metrics.ipynb**]()
-20. [**20_classification_metrics.ipynb**]()
-21. [**21_lasso_ridge_regression.ipynb**]()
-22. [**22_hyperparameter_tunning_cross_validation.ipynb**]()
-23. [**23_ml_ds_project_lifecycle.ipynb**]()
+1. [**Introduction To ML**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/01_introduction.ipynb)
+2. [**Linear Regression**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/02_linear_regression.ipynb)
+3. [**Logistic Regression**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/03_logistic_regression.ipynb)
+4. [**Decision Tree**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/04_decision_tree.ipynb)
+5. [**SVM**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/05_svm.ipynb)
+6. [**Naive Bayes**]()
+7. [**KNN**]()
+8. [**k-means Clustering**]()
+9. [**Hierarchical Clustering**]()
+10. [**DBSCAN**]()
+11. [**PCA**]()
+12. [**LDA**]()
+13. [**Ensemble Learning**]()
+14. [**Random Forest**]()
+15. [**Gradient Boost**]()
+16. [**XGboost Regression**]()
+17. [**XGboost Classification**]()
+18. [**Adaboost**]()
+19. [**Regression Metrics**]()
+20. [**Classification Metrics**]()
+21. [**Lasso And Ridge Regression**]()
+22. [**Hyperparameter Tunning And Cross Validation**]()
+23. [**ML Project Life-cycle**]()
 
 ---
 
 ## 04. Deep Learning 🧠
 
-1. [**01_introduction.ipynb**]()
-2. [**02_ANN.ipynb**]()
-3. [**03_activation_function.ipynb**]()
-4. [**04_loss_fun.ipynb**]()
-5. [**05_optimization.ipynb**]()
-6. [**06_vanishing_explodings.ipynb**]()
-7. [**07_overfit_underfit.ipynb**]()
-8. [**08_CNN.ipynb**]()
-10. [**10_RNN.ipynb**]()
-11. [**11_LSTM_GRU.ipynb**]()
-12. [**12_BRNN.ipynb**]()
-13. [**13_TF_PyTorch.ipynb**]()
+1. [**Introduction To DL**]()
+2. [**ANN**]()
+3. [**Activation Functions**]()
+4. [**Loss Functions**]()
+5. [**Optimization**]()
+6. [**Vanishing Explodings**]()
+7. [**Overfit And Uderfit**]()
+8. [**CNN**]()
+10. [**RNN**]()
+11. [**LSTM And GRU**]()
+12. [**BRNN**]()
+13. [**Tensorflow And PyTorch**]()
 
 ---
 
 ## 05. Natural Language Processing (NLP) 💬
 
-1. [**01_introduction_to_NLP.ipynb**]()
-2. [**02_word_embeddings.ipynb**]()
-3. [**03_word2vec.ipynb**]()
-4. [**04_seq2seq.ipynb**]()
-5. [**05_transformers.ipynb**]()
-6. [**06_DL_models_NLP.ipynb**]()
+1. [**Introduction To NLP**]()
+2. [**Word Embeddings**]()
+3. [**Word2vec**]()
+4. [**Seq2Seq**]()
+5. [**Transformers**]()
+6. [**DL Models In NLP**]()
 
 ---
 
 ## 06. Computer Vision (CV) 👁️
 
-1. [**01_introduction_to_CV.ipynb**]()
-2. [**02_object_detection.ipynb**]()
-3. [**03_opencv.ipynb**]()
-4. [**04_GAN.ipynb**]()
-5. [**05_image_segmentation.ipynb**]()
+1. [**Introduction To CV**]()
+2. [**Object Detection**]()
+3. [**OpenCV**]()
+4. [**GAN**]()
+5. [**Image Segmentation**]()
 
 ---
 
 ## 07. Generative AI & LLMs 🤖📝
 
-1. [**01_Introduction to Generative AI & LLMs**](#)
-2. [**02_Retrieval-Augmented Generation (RAG)**](#)
+1. [**Introduction to Generative AI & LLMs**](#)
+2. [**Retrieval-Augmented Generation (RAG)**](#)
 
 ---
 
 ## 08. MLOps Resources ⚙️
 
 1. Github: [Github](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources) | 
-2. Docker: [Docker1](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana) | [Docker2](https://www.youtube.com/watch?v=MJ1vWb1rGwM&ab_channel=KrishNaik)
-3. MLFlow: [mlflow](https://www.youtube.com/watch?v=r0do1KVEGqM&list=PLwFaZuSL_mfou923msxLWAqxkj6Zcnt29&ab_channel=AshutoshTripathi)
-4. CI/CD: [GithubAction1](https://www.youtube.com/watch?v=R8_veQiYBjI&t=13s&ab_channel=TechWorldwithNana) | [GithubAction2](https://www.youtube.com/watch?v=-hVG9z0fCac&list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY&ab_channel=glich.stream)
-5. Kubernete: [Kubernete](https://www.youtube.com/watch?v=X48VuDVv0do&t=2s&ab_channel=TechWorldwithNana)
+2. Docker: [Docker Tutorial for Beginners (TechWorld with Nana)](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana) | [End To End Machine Learning Project Implementation With Dockers (Krish Naik)](https://www.youtube.com/watch?v=MJ1vWb1rGwM&ab_channel=KrishNaik)
+3. MLFlow: [MLflow in Machine Learning ](https://www.youtube.com/watch?v=r0do1KVEGqM&list=PLwFaZuSL_mfou923msxLWAqxkj6Zcnt29&ab_channel=AshutoshTripathi)
+4. CI/CD: [GitHub Actions Tutorial (TechWorld with Nana)](https://www.youtube.com/watch?v=R8_veQiYBjI&t=13s&ab_channel=TechWorldwithNana) | [GitHub Actions (glich.stream)](https://www.youtube.com/watch?v=-hVG9z0fCac&list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY&ab_channel=glich.stream)
+5. Kubernete: [Kubernetes Tutorial for Beginners (TechWorld with Nana)](https://www.youtube.com/watch?v=X48VuDVv0do&t=2s&ab_channel=TechWorldwithNana)
 
-6. AWS: [AWS1](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) | [AWS2](https://www.udemy.com/course/aws-machine-learning/?couponCode=SEP_24_GET_STARTED)
+6. AWS: [AWS Cloud Practitioner (Udemy)](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
 ### MLOps Courses:
 | Platform | Links |
 |----------|-------|
 | ⚙️ Coursera | [MLOps Specialization](https://www.coursera.org/learn/introduction-to-machine-learning-in-production) |
-| ⚙️ Udemy | [AWS Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) |
+| ⚙️ Udemy | [Machine Learning Specialty](https://www.udemy.com/course/aws-machine-learning/?couponCode=SEP_24_GET_STARTED) |
+
 
 ---
 
