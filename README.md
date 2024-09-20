@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Stars Badge"/>
   <img src="https://img.shields.io/github/forks/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Forks Badge"/>
   <img src="https://img.shields.io/github/license/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-0.0.5-blue" alt="Version"/>
 </p>
 
 <p align="center">
@@ -84,24 +84,24 @@
 | **3. Logistic Regression**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/03_logistic_regression.ipynb) |
 | **4. Decision Tree**               | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/04_decision_tree.ipynb) |
 | **5. SVM**                         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/05_svm.ipynb) |
-| **6. Naive Bayes**                 | [🌐 Notebook]() |
-| **7. KNN**                         | [🌐 Notebook]() |
-| **8. k-means Clustering**          | [🌐 Notebook]() |
-| **9. Hierarchical Clustering**     | [🌐 Notebook]() |
-| **10. DBSCAN**                     | [🌐 Notebook]() |
-| **11. PCA**                        | [🌐 Notebook]() |
-| **12. LDA**                        | [🌐 Notebook]() |
-| **13. Ensemble Learning**          | [🌐 Notebook]() |
-| **14. Random Forest**              | [🌐 Notebook]() |
-| **15. Gradient Boost**             | [🌐 Notebook]() |
-| **16. XGBoost Regression**         | [🌐 Notebook]() |
-| **17. XGBoost Classification**     | [🌐 Notebook]() |
-| **18. Adaboost**                   | [🌐 Notebook]() |
-| **19. Regression Metrics**         | [🌐 Notebook]() |
-| **20. Classification Metrics**     | [🌐 Notebook]() |
-| **21. Lasso And Ridge Regression** | [🌐 Notebook]() |
-| **22. Hyperparameter Tuning & Cross Validation** | [🌐 Notebook]() |
-| **23. ML Project Life-cycle**      | [🌐 Notebook]() |
+| **6. Naive Bayes**                 | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/06_naive_bayes.ipynb) |
+| **7. KNN**                         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/07_knn.ipynb) |
+| **8. k-means Clustering**          | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/08_k-means_clustering.ipynb) |
+| **9. Hierarchical Clustering**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/09_hierarchical_clustering.ipynb) |
+| **10. DBSCAN**                     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/10_DBSCAN.ipynb) |
+| **11. PCA**                        | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/11_PCA.ipynb) |
+| **12. LDA**                        | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/12_LDA.ipynb) |
+| **13. Ensemble Learning**          | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/13_ensemble_learning.ipynb) |
+| **14. Random Forest**              | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/14_Random_Forest.ipynb) |
+| **15. Gradient Boost**             | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/15_gradient_boost.ipynb) |
+| **16. XGBoost Regression**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/16_xgboost_Regression.ipynb) |
+| **17. XGBoost Classification**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/17_xgboost_classification.ipynb) |
+| **18. Adaboost**                   | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/18_adaboost.ipynb) |
+| **19. Regression Metrics**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/19_regression_metrics.ipynb) |
+| **20. Classification Metrics**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/20_classification_metrics.ipynb) |
+| **21. Lasso And Ridge Regression** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/21_lasso_ridge_regression.ipynb) |
+| **22. Hyperparameter Tuning & Cross Validation** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/22_hyperparameters_tunning_cross_validation.ipynb) |
+| **23. ML Project Life-cycle**      | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/23_ml_ds_project_life_cycle.ipynb) |
 
 ---
 
