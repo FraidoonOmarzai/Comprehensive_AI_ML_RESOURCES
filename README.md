@@ -109,31 +109,31 @@
 
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
-| **1. Introduction To DL**         | [🌐 Notebook]() |
-| **2. ANN**     | [🌐 Notebook]() |
-| **3. Activation Functions**                     | [🌐 Notebook]() |
-| **4. Loss Functions**                        | [🌐 Notebook]() |
-| **5. Optimization**                        | [🌐 Notebook]() |
-| **6. Vanishing Explodings**          | [🌐 Notebook]() |
-| **7. Overfit And Uderfit**              | [🌐 Notebook]() |
-| **8. CNN**             | [🌐 Notebook]() |
-| **9. CNN Architectures**         | [🌐 Notebook]() |
-| **10. RNN**     | [🌐 Notebook]() |
-| **11. LSTM And GRU**                   | [🌐 Notebook]() |
-| **12. BRNN**         | [🌐 Notebook]() |
-| **13. Tensorflow And PyTorch**     | [🌐 Notebook]() |
+| **1. Introduction To DL** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/01_Introduction.ipynb) |
+| **2. ANN** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/02_ANN.ipynb) |
+| **3. Activation Functions** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/03_activation_fun.ipynb) |
+| **4. Loss Functions** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/04_loss_fun.ipynb) |
+| **5. Optimization**| [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/05_optimization.ipynb) |
+| **6. Vanishing Explodings** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/06_vanishing_explodings.ipynb) |
+| **7. Overfit And Uderfit** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/07_overfit_underfit.ipynb) |
+| **8. CNN**             | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/08_CNN.ipynb) |
+| **9. CNN Architectures** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/09_CNN_architectures.ipynb) |
+| **10. RNN** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/10_RNN.ipynb) |
+| **11. LSTM And GRU** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/11_LSTM_GRU.ipynb) |
+| **12. BRNN** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/12_BRNN.ipynb) |
+| **13. Tensorflow And PyTorch** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/13_TF_PyTorch.ipynb) |
 
 ---
 
 ## 05. Natural Language Processing (NLP) 💬
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
-| **1. Introduction To NLP**         | [🌐 Notebook]() |
-| **2. Word Embeddings**     | [🌐 Notebook]() |
-| **3. Word2vec**                     | [🌐 Notebook]() |
-| **4. Seq2Seq**                        | [🌐 Notebook]() |
-| **5. Transformers**                        | [🌐 Notebook]() |
-| **6. DL Models In NLP**          | [🌐 Notebook]() |
+| **1. Introduction To NLP** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/05_NLP/01_introduction_to_NLP.ipynb) |
+| **2. Word Embeddings** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/05_NLP/02_word_embeddings.ipynb) |
+| **3. Word2vec**  | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/05_NLP/03_word2vec.ipynb) |
+| **4. Seq2Seq**  | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/05_NLP/04_seq2seq.ipynb) |
+| **5. Transformers**  | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/05_NLP/05_transformers.ipynb) |
+| **6. DL Models In NLP**  | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/05_NLP/06_DL_models_NLP.ipynb) |
 
 ---
 
@@ -141,11 +141,11 @@
 
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
-| **1. Introduction To CV**         | [🌐 Notebook]() |
-| **2. Object Detection**     | [🌐 Notebook]() |
-| **3. OpenCV**                        | [🌐 Notebook]() |
-| **4. GAN**                        | [🌐 Notebook]() |
-| **5. Image Segmentation**                        | [🌐 Notebook]() |
+| **1. Introduction To CV**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/06_CV/01_introduction_to_CV.ipynb) |
+| **2. Object Detection**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/06_CV/02_object_detection.ipynb) |
+| **3. OpenCV**                        | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/06_CV/03_opencv.ipynb) |
+| **4. GAN**                        | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/06_CV/04_GANs.ipynb) |
+| **5. Image Segmentation**                        | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/06_CV/05_image_segmentation.ipynb) |
 
 ---
 
@@ -153,8 +153,8 @@
 
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
-| **1. Introduction to Generative AI & LLMs**         | [🌐 Notebook]() |
-| **2. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook]() |
+| **1. Introduction to Generative AI & LLMs**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_GenerativeAI_llm.ipynb) |
+| **2. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/02_RAG.ipynb) |
 
 ---
 
