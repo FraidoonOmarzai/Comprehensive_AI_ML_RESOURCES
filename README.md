@@ -25,8 +25,8 @@
 | [02. Python](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/02_Python) | Python fundamentals, data structures, libraries, and more. |
 | [03. Machine Learning](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/03_ML) | Core ML algorithms, models, techniques, and much more. |
 | [04. Deep Learning](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/04_DL) | Dive into ANN, CNN, RNN, LSTM, and more. |
-| [05. NLP](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/05_NLP) | Natural Language Processing using ML and DL models, preprocessing techniques, used tools in NLP, and more. |
-| [06. Computer Vision](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/06_CV) | Intorduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
+| [05. NLP](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/05_NLP) | Natural Language Processing using ML and DL models, preprocessing techniques, tools in NLP, and more. |
+| [06. Computer Vision](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/06_CV) | Introduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
 | [07. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Explore the world of Large Language Models and Generative AI. |
 | [08. MLOps](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main) | Tools, courses, and resources for MLOps. |
 
@@ -65,7 +65,7 @@
 2. [**Data Structures & Algorithms**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/02_data_structure_alg.ipynb)
    - Arrays, Sorting, Searching, Linked Lists, Trees, Graphs, and more.
 
-3. [**NumPy**](#) | [**Pandas**](#) | [**Matplotlib**](#) | [**Seaborn**](#)
+3. [**NumPy**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/03_numpy.ipynb) | [**Pandas**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/04_pandas.ipynb) | [**Matplotlib**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/05_matplotlib.ipynb) | [**Seaborn**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/06_seaborn.ipynb)
 
 ### Python Courses:
 | Platform | Links |
