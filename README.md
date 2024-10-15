@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Stars Badge"/>
   <img src="https://img.shields.io/github/forks/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Forks Badge"/>
   <img src="https://img.shields.io/github/license/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/version-0.0.5-blue" alt="Version"/>
+  <img src="https://img.shields.io/badge/version-0.0.6-blue" alt="Version"/>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 
 ## 02. Python 🐍
 
-1. [**Python Basics**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01-python.ipynb)
+1. [**Python Basics**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/01_python.ipynb)
    - Variables, Data Types, Lists, Functions, OOP, Error Handling, etc.
 
 2. [**Data Structures & Algorithms**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/02_data_structure_alg.ipynb)
@@ -103,6 +103,15 @@
 | **22. Hyperparameter Tuning & Cross Validation** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/22_hyperparameters_tunning_cross_validation.ipynb) |
 | **23. ML Project Life-cycle**      | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/23_ml_ds_project_life_cycle.ipynb) |
 
+
+### ML Courses:
+| Platform | Links |
+|----------|-------|
+| 🤖 Coursera | [Machine Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/machine-learning-introduction) |
+<!-- | 🤖 | []() | -->
+| 🤖 YouTube | [EDA Live (Krish Naik)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh&ab_channel=KrishNaik) |
+| 🤖 YouTube | [EDA Playlist (Krish Naik)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9&ab_channel=KrishNaik) |
+
 ---
 
 ## 04. Deep Learning 🧠
@@ -122,6 +131,17 @@
 | **11. LSTM And GRU** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/11_LSTM_GRU.ipynb) |
 | **12. BRNN** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/12_BRNN.ipynb) |
 | **13. Tensorflow And PyTorch** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/13_TF_PyTorch.ipynb) |
+
+
+### DL Courses:
+| Platform | Links |
+|----------|-------|
+| 🧠 Coursera| [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning) |
+| 🧠 Udemy | [TensorFlow for Deep Learning Bootcamp](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/?couponCode=OF83024C) |
+| 🧠 Udemy | [PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/?couponCode=OF83024C) |
+<!-- | 🧠 | []() |
+| 🧠 | []() | -->
+
 
 ---
 
