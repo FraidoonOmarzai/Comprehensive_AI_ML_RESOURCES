@@ -29,8 +29,8 @@
 | [06. Computer Vision](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/06_CV) | Introduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
 | [07. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Explore the world of Large Language Models and Generative AI. |
 | [08. Agentic AI](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/08_AgenticAI) | Dive deep into Agentic AI and Automation. |
-| [09. MLOps](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main) | Tools, courses, and resources for MLOps. |
-| [10. End-To-End Projects. Generative AI & LLMs]() | Comprehensive end-to-end projects. |
+| [09. MLOps](#09-mlops-resources-️) | Tools, courses, and resources for MLOps. |
+| [10. End-To-End Projects. Generative AI & LLMs](#10-end-to-end-projects-) | Comprehensive end-to-end projects. |
 
 ---
 
@@ -175,10 +175,14 @@
 
 ## 10. End-To-End Projects 🥷🏻
 
-| 📂 **Topic**                      | 📑 **Link to Notebook** |
+| 📂 **Topic**                      | 📑 **Link to Github Repository** |
 |------------------------------------|-------------------------|
-| **1. Introduction to Generative AI & LLMs**    | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_AgenticAI.ipynb) |
-
+| **1. End-To-End ML Project (Liver Disease)**    | [🔗 Github](https://github.com/FraidoonOmarzai/end-to-end-liver-project) |
+| **2. End-To-End NLP Project (Hate Speech Detection)**    | [🔗 Github](https://github.com/FraidoonOmarzai/hate-speech-end-to-end-project) |
+| **3. End-To-End DL/Computer Vision Project (Medical Image Analysis)**    | [🔗 Github](https://github.com/FraidoonOmarzai/Medical-Image-Analysis) |
+| **4. End-To-End LLM Project(Medical Chatbot)**    | [🔗 Github](https://github.com/FraidoonOmarzai/Medical-Chatbot-LLM) |
+| **5. End-To-End RAG Project (Corrective RAG)**    | [🔗 Github](https://github.com/FraidoonOmarzai/CorrectiveRAG) |
+| **6. End-To-End MLOps Project**    | [🔗 Github](https://github.com/FraidoonOmarzai/End-To-End-MLOps-Project) |
 ---
 
 
