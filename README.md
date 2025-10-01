@@ -28,9 +28,9 @@
 | [05. NLP](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/05_NLP) | Natural Language Processing using ML and DL models, preprocessing techniques, tools in NLP, and more. |
 | [06. Computer Vision](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/06_CV) | Introduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
 | [07. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Explore the world of Large Language Models and Generative AI. |
-| [08. Agentic AI](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Dive deep into Agentic AI and Automation. |
+| [08. Agentic AI](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/08_AgenticAI) | Dive deep into Agentic AI and Automation. |
 | [09. MLOps](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main) | Tools, courses, and resources for MLOps. |
-| [End-To-End Projects. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Comprehensive end-to-end projects. |
+| [10. End-To-End Projects. Generative AI & LLMs]() | Comprehensive end-to-end projects. |
 
 ---
 
@@ -142,7 +142,7 @@
 |------------------------------------|-------------------------|
 | **1. Introduction to Generative AI & LLMs**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_GenerativeAI_llm.ipynb) |
 | **2. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/02_RAG.ipynb) |
-| **3. Revealing the training secret of DeepSeek**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/03_RAG.ipynb) |
+| **3. Revealing the training secret of DeepSeek**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/03_Revealing_Training_SecretOf_DeepSeek.ipynb) |
 
 ---
 
@@ -150,7 +150,7 @@
 
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
-| **1. Introduction to Agentic AI**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_AgenticAI.ipynb) |
+| **1. Introduction to Agentic AI**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/08_AgenticAI/01_Introduction_To_AgenticAI.ipynb) |
 
 ---
 
