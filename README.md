@@ -21,14 +21,14 @@
 ## 📑 Table of Contents
 | Section | Description |
 |---------|-------------|
-| [01. Math for AI and ML](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/01_math) | Math foundations for AI/ML like linear algebra, calculus, statistic and probability. |
-| [02. Python](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/02_Python) | Python fundamentals, data structures, libraries, and more. |
-| [03. Machine Learning](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/03_ML) | Core ML algorithms, models, techniques, and much more. |
-| [04. Deep Learning](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/04_DL) | Dive into ANN, CNN, RNN, LSTM, and more. |
-| [05. NLP](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/05_NLP) | Natural Language Processing using ML and DL models, preprocessing techniques, tools in NLP, and more. |
-| [06. Computer Vision](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/06_CV) | Introduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
-| [07. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Explore the world of Large Language Models and Generative AI. |
-| [08. Agentic AI](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/08_AgenticAI) | Dive deep into Agentic AI and Automation. |
+| [01. Math for AI and ML](#01-math-for-ai-and-ml-) | Math foundations for AI/ML like linear algebra, calculus, statistic and probability. |
+| [02. Python](#02-python-) | Python fundamentals, data structures, libraries, and more. |
+| [03. Machine Learning](#03-machine-learning-) | Core ML algorithms, models, techniques, and much more. |
+| [04. Deep Learning](#04-deep-learning-) | Dive into ANN, CNN, RNN, LSTM, and more. |
+| [05. NLP](#05-natural-language-processing-nlp-) | Natural Language Processing using ML and DL models, preprocessing techniques, tools in NLP, and more. |
+| [06. Computer Vision](#06-computer-vision-cv-️) | Introduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
+| [07. Generative AI & LLMs](#07-generative-ai--llms-) | Explore the world of Large Language Models and Generative AI. |
+| [08. Agentic AI](#08-agentic-ai-) | Dive deep into Agentic AI and Automation. |
 | [09. MLOps](#09-mlops-resources-️) | Tools, courses, and resources for MLOps. |
 | [10. End-To-End Projects. Generative AI & LLMs](#10-end-to-end-projects-) | Comprehensive end-to-end projects. |
 
