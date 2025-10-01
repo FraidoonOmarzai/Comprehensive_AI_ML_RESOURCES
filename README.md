@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>🚀 A Complete AI/ML Repository with in-depth coverage of <code>Math</code>, <code>Python</code>, <code>Machine Learning</code>, <code>Deep Learning</code>, <code>NLP</code>, <code>Computer Vision</code>, <code>LLMs</code>, and <code>MLOps</code> 🚀</strong>
+  <strong>🚀 A Complete AI/ML Repository with in-depth coverage of <code>Math</code>, <code>Python</code>, <code>Machine Learning</code>, <code>Deep Learning</code>, <code>NLP</code>, <code>Computer Vision</code>, <code>LLMs</code>, <code>LLMs</code>, <code>MLOps</code>, and <code>End To End Projects</code> 🚀</strong>
 </p>
 
 ---
@@ -28,7 +28,9 @@
 | [05. NLP](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/05_NLP) | Natural Language Processing using ML and DL models, preprocessing techniques, tools in NLP, and more. |
 | [06. Computer Vision](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/06_CV) | Introduction to CV, Object detection, GANs, image segmentation, and OpenCV. |
 | [07. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Explore the world of Large Language Models and Generative AI. |
-| [08. MLOps](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main) | Tools, courses, and resources for MLOps. |
+| [08. Agentic AI](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Dive deep into Agentic AI and Automation. |
+| [09. MLOps](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main) | Tools, courses, and resources for MLOps. |
+| [End-To-End Projects. Generative AI & LLMs](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/tree/main/07_LLM) | Comprehensive end-to-end projects. |
 
 ---
 
@@ -45,16 +47,6 @@
 
 4. [**Statistics**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/01_math/04_statistics.ipynb)
    - Central Tendency, Hypothesis Testing, Plots (Box, QQ, Violin), and more.
-
-### Math Courses:
-| Platform | Links |
-|----------|-------|
-| 🧑‍🏫 Khan Academy | [Linear Algebra](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&ab_channel=KhanAcademy) |
-| 🧑‍🏫 MIT | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1&ab_channel=MITOpenCourseWare) |
-| 🧑‍🏫 3Blue1Brown | [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&ab_channel=3Blue1Brown) |
-| 🧑‍🏫 3Blue1Brown | [Calculas](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&ab_channel=3Blue1Brown) |
-| 🧑‍🏫 Coursera | [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
-| 🧑‍🏫 YouTube | [Live Statistic (Krish Naik)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay&ab_channel=KrishNaik) |
 ---
 
 ## 02. Python 🐍
@@ -66,12 +58,6 @@
    - Arrays, Sorting, Searching, Linked Lists, Trees, Graphs, and more.
 
 3. [**NumPy**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/03_numpy.ipynb) | [**Pandas**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/04_pandas.ipynb) | [**Matplotlib**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/05_matplotlib.ipynb) | [**Seaborn**](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/02_Python/06_seaborn.ipynb)
-
-### Python Courses:
-| Platform | Links |
-|----------|-------|
-| 🐍 Udemy | [Python Bootcamp (Jose)](https://www.udemy.com/course/complete-python-bootcamp) |
-| 🐍 Udemy | [Python for Data Science (Jose)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp) |
 
 ---
 
@@ -103,15 +89,6 @@
 | **22. Hyperparameter Tuning & Cross Validation** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/22_hyperparameters_tunning_cross_validation.ipynb) |
 | **23. ML Project Life-cycle**      | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/03_ML/23_ml_ds_project_life_cycle.ipynb) |
 
-
-### ML Courses:
-| Platform | Links |
-|----------|-------|
-| 🤖 Coursera | [Machine Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/machine-learning-introduction) |
-<!-- | 🤖 | []() | -->
-| 🤖 YouTube | [EDA Live (Krish Naik)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh&ab_channel=KrishNaik) |
-| 🤖 YouTube | [EDA Playlist (Krish Naik)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9&ab_channel=KrishNaik) |
-
 ---
 
 ## 04. Deep Learning 🧠
@@ -131,16 +108,6 @@
 | **11. LSTM And GRU** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/11_LSTM_GRU.ipynb) |
 | **12. BRNN** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/12_BRNN.ipynb) |
 | **13. Tensorflow And PyTorch** | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/04_DL/13_TF_PyTorch.ipynb) |
-
-
-### DL Courses:
-| Platform | Links |
-|----------|-------|
-| 🧠 Coursera| [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning) |
-| 🧠 Udemy | [TensorFlow for Deep Learning Bootcamp](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/?couponCode=OF83024C) |
-| 🧠 Udemy | [PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/?couponCode=OF83024C) |
-<!-- | 🧠 | []() |
-| 🧠 | []() | -->
 
 
 ---
@@ -169,16 +136,25 @@
 
 ---
 
-## 07. Generative AI & LLMs 🤖📝
+## 07. Generative AI & LLMs 📝
 
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
 | **1. Introduction to Generative AI & LLMs**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_GenerativeAI_llm.ipynb) |
 | **2. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/02_RAG.ipynb) |
+| **3. Revealing the training secret of DeepSeek**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/03_RAG.ipynb) |
 
 ---
 
-## 08. MLOps Resources ⚙️
+## 08. Agentic AI 🦾
+
+| 📂 **Topic**                      | 📑 **Link to Notebook** |
+|------------------------------------|-------------------------|
+| **1. Introduction to Agentic AI**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_AgenticAI.ipynb) |
+
+---
+
+## 09. MLOps Resources ⚙️
 
 1. Github: [Github](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources) | 
 2. Docker: [Docker Tutorial for Beginners (TechWorld with Nana)](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana) | [End To End Machine Learning Project Implementation With Dockers (Krish Naik)](https://www.youtube.com/watch?v=MJ1vWb1rGwM&ab_channel=KrishNaik)
@@ -196,6 +172,15 @@
 
 
 ---
+
+## 10. End-To-End Projects 🥷🏻
+
+| 📂 **Topic**                      | 📑 **Link to Notebook** |
+|------------------------------------|-------------------------|
+| **1. Introduction to Generative AI & LLMs**    | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_AgenticAI.ipynb) |
+
+---
+
 
 ## 🌟 Connect with Me
 
