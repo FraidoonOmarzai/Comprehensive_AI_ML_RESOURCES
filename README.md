@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>🚀 A Complete AI/ML Repository with in-depth coverage of <code>Math</code>, <code>Python</code>, <code>Machine Learning</code>, <code>Deep Learning</code>, <code>NLP</code>, <code>Computer Vision</code>, <code>LLMs</code>, <code>LLMs</code>, <code>MLOps</code>, and <code>End To End Projects</code> 🚀</strong>
+  <strong>🚀 A Complete AI/ML Repository with in-depth coverage of <code>Math</code>, <code>Python</code>, <code>Machine Learning</code>, <code>Deep Learning</code>, <code>NLP</code>, <code>Computer Vision</code>, <code>LLMs</code>, <code>Agentic AI</code>, <code>MLOps</code>, and <code>End To End Projects</code> 🚀</strong>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 | [07. Generative AI & LLMs](#07-generative-ai--llms-) | Explore the world of Large Language Models and Generative AI. |
 | [08. Agentic AI](#08-agentic-ai-) | Dive deep into Agentic AI and Automation. |
 | [09. MLOps](#09-mlops-resources-️) | Tools, courses, and resources for MLOps. |
-| [10. End-To-End Projects. Generative AI & LLMs](#10-end-to-end-projects-) | Comprehensive end-to-end projects. |
+| [10. End-To-End Projects](#10-end-to-end-projects-) | Comprehensive end-to-end projects. |
 
 ---
 
