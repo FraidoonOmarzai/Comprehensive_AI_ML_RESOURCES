@@ -141,8 +141,9 @@
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
 | **1. Introduction to Generative AI & LLMs**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_GenerativeAI_llm.ipynb) |
-| **2. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/02_RAG.ipynb) |
-| **3. Revealing the training secret of DeepSeek**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/03_Revealing_Training_SecretOf_DeepSeek.ipynb) |
+| **2. A Practical Guide to Generative AI and LLMs for AI Engineers**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_GenerativeAI_llm.ipynb) |
+| **3. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/02_RAG.ipynb) |
+| **4. Revealing the training secret of DeepSeek**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/03_Revealing_Training_SecretOf_DeepSeek.ipynb) |
 
 ---
 
