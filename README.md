@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Comprehensive AI/ML Resources📚 🌟</h1>
+<h1 align="center">🌟 Comprehensive AI/ML Resources In 2026📚 🌟</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES?style=flat-square" alt="Stars Badge"/>
@@ -141,7 +141,7 @@
 | 📂 **Topic**                      | 📑 **Link to Notebook** |
 |------------------------------------|-------------------------|
 | **1. Introduction to Generative AI & LLMs**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_GenerativeAI_llm.ipynb) |
-| **2. A Practical Guide to Generative AI and LLMs for AI Engineers**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/01_Introduction_GenerativeAI_llm.ipynb) |
+| **2. A Practical Guide to Generative AI and LLMs for AI Engineers**         | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/02_Practical_Guide_To_Generative_AI.ipynb) |
 | **3. Retrieval-Augmented Generation (RAG)**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/02_RAG.ipynb) |
 | **4. Revealing the training secret of DeepSeek**     | [🌐 Notebook](https://github.com/FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES/blob/main/07_LLM/03_Revealing_Training_SecretOf_DeepSeek.ipynb) |
 
